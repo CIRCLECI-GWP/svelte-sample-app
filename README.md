@@ -1,38 +1,24 @@
-# create-svelte
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/svelte-sample-app.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/svelte-sample-app)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
-## Creating a project
+## Details
 
-If you're seeing this, you've probably already done this step. Congrats!
+This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+<!-- - Blog post: [Build a CI powered RESTful API with Laravel][blog] -->
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- Author's GitHub profile: [Fikayo Adepoju][author]
 
-## Developing
+### About CircleCI Guest Writer Program
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here][gwp-program].
 
-```bash
-npm run dev
+Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan]
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+<!-- [blog]: https://circleci.com/blog/build-a-ci-powered-restful-api-with-laravel -->
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+[author]: https://github.com/coderonfleek
+[gwp-program]: https://circle.ci/3ahQxfu
+[ron]: https://github.com/ronpowelljr
+[stan]: https://github.com/NdagiStanley
